@@ -13,6 +13,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Clay Allsopp <clay.allsopp@gmail.com>",
   "license": "MIT"
 }
